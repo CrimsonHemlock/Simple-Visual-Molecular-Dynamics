@@ -1,2 +1,5 @@
-#Test Molecular Dynamics
-Ce dossier contient le programme de modelisation simple, sans mesures physiques associees
+# Test Molecular Dynamics
+Molecular Dynamics code with a visualization with the Cairo library written for a computational project while at the ESPCI Paris
+
+# Compiling and running
+make && ./start
