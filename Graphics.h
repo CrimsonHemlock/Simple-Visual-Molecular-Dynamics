@@ -1,4 +1,4 @@
-// We use the casio graphics library
+// We use the cairo graphics library
 // documentation: https://www.cairographics.org/manual/cairo-Paths.html
 #include <unistd.h>
 #include <assert.h>
